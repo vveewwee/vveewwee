@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @vveewwee
-- 👀 I’m interested in whatever i dont know how to do
-- 🌱 I’m always learning.
-- 💞️ Am I looking to collaborate ?
-- 📫 How to reach me, nobody knows
+-🖖 Hi, I’m @Vee.
+---
+- 🤙 I’m interested in creating, learning, solving, discovering, well in coding !
+---
+- 🤜🤛 I'm in for collaborating !
 
 <!---
 vveewwee/vveewwee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
