@@ -4,7 +4,7 @@
 ---
 - 🤜🤛 I'm in for collaborating !
 ---
-- ✌️ I'm currently studying at 42 Paris and finishing my last project for OC in Frontend !
+- ✌️ I'm currently studying at 42 Paris, finishing my last project for OC in Frontend React/Javascript and continue learning about backend on my own.
 
 <!---
 vveewwee/vveewwee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
