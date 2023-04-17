@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vveewwee&show_icons=true&theme=transparent)
 
-<div style="display:flex; flex-direction:column; text-decoration:none;">
+<div>
   <a style="text-decoration:none" href="https://www.vim.org/">
    <img alt="" height="100" width="100" onerror="this.style.display='none'" src="https://freepngimg.com/convert-png/76620-unix-like-linux-fallout-vim-free-transparent-image-hq" />
   </a>
