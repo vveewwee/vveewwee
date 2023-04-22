@@ -12,33 +12,28 @@ vveewwee/vveewwee is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 ---
-<div>
-  <img src="https://i1.wp.com/media3.giphy.com/media/lMcMve6tL1AM8/giphy.gif" />
-</div>
-
----
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vveewwee&show_icons=true&theme=transparent)
 
 <div>
   <a style="text-decoration:none" href="https://www.vim.org/">
-   <img alt="" height="100" width="100" onerror="this.style.display='none'" src="https://freepngimg.com/convert-png/76620-unix-like-linux-fallout-vim-free-transparent-image-hq" />
+   <img alt="" height="80" width="80" onerror="this.style.display='none'" src="https://github.com/vveewwee/logos/blob/main/vim.png" />
+  </a>
+    <a style="text-decoration:none;" href="https://www.gnu.org/software/bash/">
+    <img alt="" height="80" width="80" onerror="this.style.display='none'" src="https://github.com/vveewwee/logos/blob/main/bash.png" />
   </a>
   <a style="text-decoration:none;" href="https://www.gnu.org/">
-    <img alt="" height="100" width="100" onerror="this.style.display='none'" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSva3EWX7dRBII2p964rN2RUETXBIW5YEkhRw&usqp=CAU" />
+    <img alt="" height="80" width="80" onerror="this.style.display='none'" src="https://github.com/vveewwee/logos/blob/main/gnu.png" />
   </a>
   <a style="text-decoration:none;" href="https://www.linux.org/">
-   <img alt="" height="100" width="100" onerror="this.style.display='none'" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz8-GbcUfs3sWhMdGld66TfKJVQ46YnV5qAw&usqp=CAU" />
+   <img alt="" height="80" width="70" onerror="this.style.display='none'" src="https://github.com/vveewwee/logos/blob/main/linux.png" />
   </a>
   <a style="text-decoration:none;" href="https://kremlin.cc/k&r.pdf">
-    <img alt="" height="100" width="90" onerror="this.style.display='none'" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPL0I6PEl7X_v2uCNwUgundrXBcR9eb58ofA&usqp=CAU" />
+    <img alt="" height="80" width="80" onerror="this.style.display='none'" src="https://github.com/vveewwee/logos/blob/main/c%20.png" />
   </a>
   <a style="text-decoration:none;" href="https://www.javascript.com/">
-    <img alt="" height="100" width="100" onerror="this.style.display='none'" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI0Yc2Vb53NLRQ3LTxlHVL920joodyJsucwA&usqp=CAU" />
+    <img alt="" height="80" width="80" onerror="this.style.display='none'" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI0Yc2Vb53NLRQ3LTxlHVL920joodyJsucwA&usqp=CAU" />
   </a>
   <a style="text-decoration:none;" href="https://react.dev/">
-   <img alt="" height="100" width="120" onerror="this.style.display='none'" src="https://miro.medium.com/v2/resize:fit:1200/1*odW0CyTVxMVt5s3yhjjOhw.png" />
-  </a>
-  <a style="text-decoration:none;" href="https://www.gnu.org/software/bash/">
-    <img alt="" height="100" width="180" onerror="this.style.display='none'" src="https://www.codelivly.com/wp-content/uploads/2023/01/bash.jpg" />
+   <img alt="" height="80" width="80" onerror="this.style.display='none'" src="https://github.com/vveewwee/logos/blob/main/react.png" />
   </a>
 </div>
