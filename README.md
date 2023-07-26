@@ -30,6 +30,9 @@ You can click the Preview link to take a look at your changes.
   <a style="text-decoration:none;" href="https://kremlin.cc/k&r.pdf">
     <img alt="" height="50" width="50" onerror="this.style.display='none'" src="https://github.com/vveewwee/logos/blob/main/c%20.png" />
   </a>
+    <a style="text-decoration:none;" href="https://cplusplus.com/">
+    <img alt="" height="50" width="50" onerror="this.style.display='none'" src="https://github.com/vveewwee/logos/blob/main/cpp.png" />
+  </a>
   <a style="text-decoration:none;" href="https://www.javascript.com/">
     <img alt="" height="50" width="50" onerror="this.style.display='none'" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI0Yc2Vb53NLRQ3LTxlHVL920joodyJsucwA&usqp=CAU" />
   </a>
